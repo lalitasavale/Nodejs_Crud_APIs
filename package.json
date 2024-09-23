@@ -1,0 +1,16 @@
+{
+  "name": "teamanager",
+  "version": "1.0.0",
+  "description": "manager application for different types of tea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "lalita savle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
